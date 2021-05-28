@@ -2,7 +2,7 @@
 
 	<center>
 	<div id="login">
-		<center><img src="../PrestamoFacil/backend/includes/images/tenelo-header.jpg"></center>
+		<center><img src="../PrestaFacil/backend/includes/images/tenelo-header.jpg"></center>
 		<div class="message" id='idMessage'>{ERRORES}</div>
 		
 		<form method="post" action="index.php" id="loginform" name="loginform">

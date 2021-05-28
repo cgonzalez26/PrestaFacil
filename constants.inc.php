@@ -22,7 +22,7 @@ define('COLOR_HEX_FUCCIA', 'FF00FF');
 
 define('HOST', 'https://' . $_SERVER['SERVER_NAME'] . '/' );
 
-define('BASE_URL', 'https://' . $_SERVER['SERVER_NAME'] . '/PrestamoFacil' );
+define('BASE_URL', 'https://' . $_SERVER['SERVER_NAME'] . '/PrestaFacil' );
 
 define('BACKEND_DIR', dirname( __FILE__ ) . '/backend');
 

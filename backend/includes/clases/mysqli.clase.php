@@ -18,7 +18,7 @@ class mysql2 {
 	private  $defaultServerPort = 3306;
 	private  $defaultServerLoginUser = 'Desarrollo';
 	private  $defaultServerLoginPass = 'd3sarr0ll0';
-	private  $defaultDBName = 'PrestamoFacil';
+	private  $defaultDBName = 'PrestaFacil';
 	private  $defaultDBCharset = 'latin1';
 	private  $conectionResArray = array();
 
